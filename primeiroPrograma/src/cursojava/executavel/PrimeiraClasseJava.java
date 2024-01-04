@@ -7,5 +7,5 @@ public class PrimeiraClasseJava {
 		
 	/*Escreve texto na tela/console */
 		System.out.println("Meu primeiro programa em Java!");
-	}
+	}//asddas
 }
